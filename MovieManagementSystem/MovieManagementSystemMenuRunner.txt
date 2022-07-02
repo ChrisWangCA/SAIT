@@ -1,0 +1,79 @@
+Console output is saving to: /Users/chriswang/Desktop/console/MovieManagementSystemMenuRunner.txt
+Create MovieManagementSystem object:
+===========================
+
+Call loadMovies() method:
+===========================
+
+Add movie:
+Movie Management system
+1	Add New Movie and Save
+2	Generate List of Movies Released in a Year
+3	Generate List of Random Movies
+4	Save & Exit
+
+Enter an option: 1
+Enter duration: 100
+Enter movie title: We are Gold
+Enter year: 2019
+Saving movies... 
+Added movie to the data file.
+===========================
+
+Generate movie list for year:
+Movie Management system
+1	Add New Movie and Save
+2	Generate List of Movies Released in a Year
+3	Generate List of Random Movies
+4	Save & Exit
+
+Enter an option: 2
+Enter in year:1996
+Movie List
+Duration	Year	Title
+103			1996	DragonHeart
+93			1996	Trainspotting
+145			1996	Independence Day
+Total duration: 341 minutes
+===========================
+
+Generate random movie list:
+Movie Management system
+1	Add New Movie and Save
+2	Generate List of Movies Released in a Year
+3	Generate List of Random Movies
+4	Save & Exit
+
+Enter an option: 3
+Enter number of movies:5
+Movie List
+Duration	Year	Title
+81			1995	Toy Story
+84			1991	Beauty and the Beast
+145			2002	Minority Report
+140			1995	Apollo 13
+97			2016	The Boy
+Total duration: 547 minutes
+===========================
+
+Save movie list:
+Movie Management system
+1	Add New Movie and Save
+2	Generate List of Movies Released in a Year
+3	Generate List of Random Movies
+4	Save & Exit
+
+Enter an option: 4
+Saving movies... 
+Movie list saved successfully!
+Goodbye!
+
+===========================
+Movie Management system
+1	Add New Movie and Save
+2	Generate List of Movies Released in a Year
+3	Generate List of Random Movies
+4	Save & Exit
+
+Enter an option: 5
+Invalid option! Please try again.

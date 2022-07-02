@@ -1,0 +1,25 @@
+Console output is saving to: /Users/chriswang/Desktop/console/console.rtf
+Create Movie object:
+===========================
+
+Call movie.getDuration():
+125
+===========================
+
+Call movie.getTitle():
+Tron: Legacy
+===========================
+
+Call movie.getYear():
+2010
+===========================
+
+Call movie.formatForFile():
+125,Tron: Legacy,2010
+===========================
+
+Call movie.toString():
+125		Tron: Legacy	2010
+===========================
+
+
